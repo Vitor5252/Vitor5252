@@ -1,7 +1,6 @@
 <h1 id="titulo"><u>Heyyy 👋 </u></h1>
 
-- 🙋‍♂️ My name is Vitor Vasconcellos Dias;
-- 🧍 I’m 17 years old;
+- 🙋‍♂️ My name is Vitor Vasconcellos Dias, i’m 17 years old;
 - 🌄 I live in Brazil;
 - 📚 3rd year high school student;
 - 👀 I’m interested in Science Computer;
