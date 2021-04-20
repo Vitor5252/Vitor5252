@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vitor5252;
 - 🧍 I am 17 years old;
 - 🇧🇷 I live in Brazil;
+- 📚 3rd year high school student;
 - 👀 I’m interested in Science Computer;
 - 🎮 I love games and programming;
 - 🌱 I’m currently learning basic programming;
