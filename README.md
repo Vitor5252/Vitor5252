@@ -4,8 +4,8 @@
 - 📚 3rd year high school student;
 - 👀 I’m interested in Science Computer;
 - 🎮 I love games and programming;
-- 🌱 I’m currently learning basic programming;
-- 💞️ ’m looking to on perfect my knowledges and help new programmers;
+- 💻 I’m currently learning basic programming;
+- 💞️ I’m looking to on perfect my knowledges and help new programmers;
 - 📫 How to reach me? Send me a message on instagram! (vitor5252)
 
 <!---
