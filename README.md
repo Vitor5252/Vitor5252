@@ -6,4 +6,4 @@
 - 🎮 I love games and programming;
 - 💻 I’m currently learning basic programming;
 - 🤝 I’m looking to on perfect my knowledges and help new programmers;
-- 📫 How to reach me? Send me a message on instagram! (@vitor5252)
+- 📫 How to reach me? Send me a message on email! (vitorvasconcellosdias65@gmail.com)
