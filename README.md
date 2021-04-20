@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ My name is Vitor Vasconcellos Dias;
 - 🧍 I’m 17 years old;
-- 🇧🇷 I live in Brazil;
+- 🌄 I live in Brazil;
 - 📚 3rd year high school student;
 - 👀 I’m interested in Science Computer;
 - 🎮 I love games and programming;
