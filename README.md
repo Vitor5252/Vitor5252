@@ -1,6 +1,6 @@
-<h1 id="titulo"><u>Salve</u></h1>
+<h1 id="titulo"><u>Heyyy 👋 </u></h1>
 
-- 👋 Hi, I’m Vitor Vasconcellos Dias;
+- 👋 I’m Vitor Vasconcellos Dias;
 - 🧍 I am 17 years old;
 - 🇧🇷 I live in Brazil;
 - 📚 3rd year high school student;
