@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vitor5252;
 - 👀 I’m interested in Science Computer;
 - 🌱 I’m currently learning basic programming;
-- 💞️ I’m looking to collaborate on perfect my knowledges and help new programmers;
+- 💞️ ’m looking to on perfect my knowledges and help new programmers;
 - 📫 How to reach me? Send me a message on instagram! (vitor5252)
 
 <!---
