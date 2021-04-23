@@ -16,4 +16,4 @@
 </a>
 <a href="https://github.com/Vitor5252" taregt="_blank">
 <img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original" style="max-width:100%;">
-</a>.svg
+</a>
