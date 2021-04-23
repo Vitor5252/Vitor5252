@@ -18,4 +18,5 @@
 <img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
 <h1></h1>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitor5252)](https://github.com/vitor5252/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor5252)](https://github.com/Vitor5252/github-readme-stats)
