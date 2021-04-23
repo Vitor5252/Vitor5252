@@ -8,3 +8,6 @@
 - 💻 I’m currently learning basic programming;
 - 📫 How to reach me? Send me a message on email! (vitorvasconcellosdias65@gmail.com)
 
+<a>
+<img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="max-width:100%;">
+</a>
