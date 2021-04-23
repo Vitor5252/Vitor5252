@@ -11,3 +11,6 @@
 <a href="https://github.com/Vitor5252" taregt="_blank">
 <img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
 </a>
+<a href="https://github.com/Vitor5252" taregt="_blank">
+<img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
+</a>
