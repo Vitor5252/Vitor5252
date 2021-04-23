@@ -19,4 +19,4 @@
 </a>
 <h1></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor5252)](https://github.com/Vitor5252/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor5252&layout=compact)](https://github.com/vitor5252/github-readme-stats)
