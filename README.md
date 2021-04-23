@@ -8,6 +8,7 @@
 - 💻 I’m currently learning basic programming;
 - 🤝 I’m looking to on perfect my knowledges and help new programmers;
 - 📫 How to reach me? Send me a message on email! (vitorvasconcellosdias65@gmail.com)
+
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
