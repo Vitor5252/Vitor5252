@@ -26,7 +26,7 @@
 <img align="center" alt="vitor5252" height="30" width="125" src="https://camo.githubusercontent.com/33897f8d6f7866d6181528b429b987ed275bd739aad8058734b081d3f7756c66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" style="max-width:100%;">
 </a>
 <a href="https://www.twitch.tv/y_vittar" target="_blank">
-<img align="center" alt="vitor5252" height="30" width="100" src="https://logodownload.org/wp-content/uploads/2017/04/twitch-logo-1.png" style="max-width:100%;">
+<img align="center" alt="vitor5252" height="30" width="100" src="" style="max-width:100%;">
 </a>
 
 <br><br>
