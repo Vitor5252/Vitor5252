@@ -1,4 +1,4 @@
-<h1 id="titulo"><u> 👋 </u></h1>
+<h1 id="titulo"><u> 👋😁 </u></h1>
 
 - 🙋‍♂️ My name is Vitor Vasconcellos Dias, i’m 17 years old;
 - 🌄 I live in Brazil;
