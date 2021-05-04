@@ -4,7 +4,6 @@
 - 🌄 I live in Brazil;
 - 📚 3rd year high school student;
 - 👀 I’m interested in Computer Science;
-- 🎮 I love games and programming;
 - 💻 I’m currently learning basic programming;
 - 📫 How to reach me? Send me a message on email! (vitorvasconcellosdias65@gmail.com)
 
