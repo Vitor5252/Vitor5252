@@ -3,7 +3,7 @@
 - 🙋‍♂️ My name is Vitor Vasconcellos Dias, i’m 17 years old;
 - 🌄 I live in Brazil;
 - 📚 3rd year high school student;
-- 👀 I’m interested in Computer Science;
+- 👀 I’m interested in Computer Engineering;
 - 💻 I’m currently learning basic programming;
 - 📫 How to reach me? Send me a message on email! (vitorvasconcellosdias65@gmail.com)
 
