@@ -2,8 +2,8 @@
 
 - 🙋‍♂️ My name is Vitor Vasconcellos Dias, i’m 17 years old;
 - 🌄 I live in Brazil;
-- 📚 Currently studying Computer Engineering - CEFET/RJ;
-- 💻 I’m currently learning basic programming;
+- 📚 I am currently studying Computer Engineering. - CEFET/RJ;
+- 💻 Studying basic programming;
 - 📫 How to reach me? Send me a message on email! (vitorvasconcellosdias65@gmail.com)
 
 <a href="https://github.com/Vitor5252" taregt="_blank">
