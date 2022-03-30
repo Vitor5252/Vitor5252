@@ -18,4 +18,4 @@
 <h1></h1>
 <br><br>
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor5252&layout=compact)](https://github.com/vitor5252/github-readme-stats) </center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor5252&layout=compact)](https://github.com/vitor5252/github-readme-stats) 
