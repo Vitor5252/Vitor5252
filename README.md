@@ -13,8 +13,8 @@
 <img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
 </a>
 <a href="https://github.com/Vitor5252" taregt="_blank">
-<img align="center" alt="vitor5252" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
+<img align="center" alt="vitor5252" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
 </a>
-
 <h1></h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor5252&layout=compact)](https://github.com/vitor5252/github-readme-stats) 
