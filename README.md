@@ -1,6 +1,6 @@
 <h1 id="titulo"><u> 👋😁 </u></h1>
 
-- 🙋‍♂️ My name is Vitor Vasconcellos Dias, i’m 18 years old;
+- 🙋‍♂️ My name is Vitor Vasconcellos Dias, i’m 19 years old;
 - 🌄 I live in Brazil, Rio de Janeiro;
 - 📚 I am currently studying Computer Engineering - CEFET/RJ;
 - 💻 Studying basic programming (HTML, CSS and JavaScript) - Rocketseat;
