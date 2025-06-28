@@ -8,7 +8,7 @@
   <li>📫 Contato: <b>vitorvasconcellosdias65@gmail.com</b></li>
 </ul>
 
-<p><b>🚀 Tenho paixão por:</b> finanças, seguros, empreendedorismo, inovação e tecnologia.</p>
+<p><b>🚀 Tenho muito interesse por:</b> finanças, seguros, empreendedorismo, inovação e tecnologia.</p>
 
 <!-- Projeto destaque -->
 <p><b>🧮 Desenvolvi uma Calculadora de Juros Compostos para ajudar pessoas a simularem investimentos inteligentes:</b></p>
