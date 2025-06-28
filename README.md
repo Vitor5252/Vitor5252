@@ -29,7 +29,7 @@
 </a>
 
 <!-- Redes sociais -->
-<p><b>🌐 Vamos nos conectar:</b></p>
+<p><b>🌐 Linkedin:</b></p>
 <a href="https://www.linkedin.com/in/vitor-vasconcellos-dias-598a6220b/" target="_blank">
   <img alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
