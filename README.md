@@ -17,7 +17,6 @@
 </a>
 
 <!-- Skills -->
-<p><b>💻 Tecnologias que utilizo:</b></p>
 <a href="https://github.com/Vitor5252" target="_blank">
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </a>
