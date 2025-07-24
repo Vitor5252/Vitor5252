@@ -11,7 +11,7 @@
 <p><b>🚀 Tenho muito interesse por:</b> finanças, seguros, empreendedorismo, inovação e tecnologia.</p>
 
 <!-- Projeto destaque -->
-<p><b>🧮 Desenvolvi uma Calculadora de Juros Compostos para ajudar pessoas a simularem investimentos inteligentes:</b></p>
+<p><b>🧮 Desenvolvi uma Calculadora de Juros Compostos para ajudá-los a realizar simulações financeiras no dia a dia</b></p>
 <a href="https://calculadorajuroscompostos.vercel.app/" target="_blank">
   🔗 https://calculadorajuroscompostos.vercel.app/
 </a>
