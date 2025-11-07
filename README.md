@@ -2,7 +2,7 @@
 
 <ul>
   <li>🙋‍♂️ Sou Vitor Vasconcellos Dias, tenho 21 anos</li>
-  <li>🌄 Natural de Petrópolis - Rio de Janeiro, Brasil</li>
+  <li>🌄 Petrópolis - Rio de Janeiro, Brasil</li>
   <li>📚 Estudante de Engenharia de Computação no CEFET/RJ</li>
   <li>💼 Atualmente trabalho na Alfa Serrana Corretora de Seguros</li>
   <li>📫 Contato: <b>vitorvasconcellosdias65@gmail.com</b></li>
