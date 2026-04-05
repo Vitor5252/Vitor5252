@@ -1,7 +1,7 @@
 <h1 id="titulo"><u> Seja Bem-Vindo! 👋😁 </u></h1>
 
 <ul>
-  <li>🙋‍♂️ Sou Vitor Vasconcellos Dias, tenho 21 anos</li>
+  <li>🙋‍♂️ Sou Vitor Vasconcellos Dias, tenho 22 anos</li>
   <li>🌄 Petrópolis - Rio de Janeiro, Brasil</li>
   <li>📚 Estudante de Engenharia de Computação no CEFET/RJ</li>
   <li>💼 Atualmente trabalho na Alfa Serrana Corretora de Seguros</li>
